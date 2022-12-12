@@ -1,0 +1,2 @@
+[Service]
+ExecStart=/home/ssm-user/imperiumhashbot/keepalive.sh
